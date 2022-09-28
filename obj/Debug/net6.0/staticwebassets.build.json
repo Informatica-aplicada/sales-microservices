@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3BSoC/q7xqBEoHDqaRxSMo9z2aul//5CfNZNh3KsDnc=",
+  "Source": "apiSalesNet",
+  "BasePath": "_content/apiSalesNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

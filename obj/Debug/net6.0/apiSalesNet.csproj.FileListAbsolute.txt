@@ -1,0 +1,151 @@
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\apiSalesNet.exe
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\apiSalesNet.deps.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\apiSalesNet.runtimeconfig.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfo.cs
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\scopedcss\bundle\apiSalesNet.styles.css
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CopyComplete
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\refint\apiSalesNet.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\apiSalesNet.genruntimeconfig.cache
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\obj\Debug\net6.0\ref\apiSalesNet.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\ASPNET\apiSalesNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.AssemblyReference.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfoInputs.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfo.cs
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\apiSalesNet.exe
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\apiSalesNet.deps.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\apiSalesNet.runtimeconfig.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\RestClient.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\RestClient.Net.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\RestClient.Net.Abstractions.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\Urls.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\scopedcss\bundle\apiSalesNet.styles.css
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CopyComplete
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\refint\apiSalesNet.dll
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\apiSalesNet.genruntimeconfig.cache
+C:\Users\Steve\Mi unidad\U\II CICLO 2022\informatica aplicada\programacion\net-core\apiSalesNet\obj\Debug\net6.0\ref\apiSalesNet.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\apiSalesNet.exe
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\apiSalesNet.deps.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\apiSalesNet.runtimeconfig.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\RestClient.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\RestClient.Net.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\RestClient.Net.Abstractions.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\Urls.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfo.cs
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\scopedcss\bundle\apiSalesNet.styles.css
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CopyComplete
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\refint\apiSalesNet.dll
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\apiSalesNet.genruntimeconfig.cache
+C:\Users\Steve\Documents\git\microservicios\apiSalesNet\obj\Debug\net6.0\ref\apiSalesNet.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\appsettings.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\apiSalesNet.exe
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\apiSalesNet.deps.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\apiSalesNet.runtimeconfig.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\RestClient.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\RestClient.Net.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\RestClient.Net.Abstractions.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\Urls.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.AssemblyInfo.cs
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\scopedcss\bundle\apiSalesNet.styles.css
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.csproj.CopyComplete
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\refint\apiSalesNet.dll
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.pdb
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\apiSalesNet.genruntimeconfig.cache
+C:\Users\Steve\Documents\git\team-work\apiSalesNet\obj\Debug\net6.0\ref\apiSalesNet.dll
