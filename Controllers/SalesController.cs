@@ -13,7 +13,6 @@ namespace apiSalesNet.Controllers
     public class SalesController : ControllerBase
     {
         // string Baseurl = "http://localhost:5401/api/person/";
-        string Baseurl = "https://person-microservices.azurewebsites.net/";
         SalesServices services = new SalesServices();
 
         [HttpPost("sales1")]

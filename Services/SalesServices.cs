@@ -30,8 +30,6 @@ namespace apiSalesNet.Services
         public async Task<List<PersonInfo>> getInfoUsers(List<Sales1> sales1)
         {
 
-            //string Baseurl = "http://localhost:5401/api/person/";
-            string person_Baseurl = "https://person-microservices.azurewebsites.net/";
 
             List<int> ids = new List<int>();
 
@@ -50,7 +48,7 @@ namespace apiSalesNet.Services
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri(person_Baseurl + "api/person/ids"),
+                RequestUri = new Uri("https://person-microservices.azurewebsites.net/api/person/ids"),
                 Content = new StringContent(json_ids)
                 {
                     Headers ={
