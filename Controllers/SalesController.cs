@@ -40,10 +40,11 @@ namespace apiSalesNet.Controllers
         }
 
 
-        [HttpGet("index")]
+        [HttpGet("/")]
         public string index()
         {
-            return "index";
+            string info = "Api sales online";
+            return info;
         }
     }
 }
