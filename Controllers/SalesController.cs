@@ -42,7 +42,6 @@ namespace apiSalesNet.Controllers
         public async Task<List<PersonInfo>> Sales3([FromBody] int[] year)
         {
 
-//prueba
             Console.WriteLine(year);
             List<int> ids = new List<int>();
             List<Sales3> sales3 = services.getSales3(year);
