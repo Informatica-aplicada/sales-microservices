@@ -88,6 +88,39 @@ namespace apiSalesNet.Database
             return list;
         }
 
+        public List<Sales3> Sales3(int[] year)
+        {
+
+            var json_year = JsonConvert.SerializeObject(year);
+            var list = new List<Sales3>();
+            var conn = new DBConnection();
+            using (var sqlconn = new SqlConnection(conn.getConnection()))
+            {
+                sqlconn.Open();
+                Console.WriteLine("conexión a base de datos:" + sqlconn.State);
+                SqlCommand cmd = new SqlCommand(Procedures.sp_sales3, sqlconn);
+                cmd.Parameters.AddWithValue("year", json_year);
+               Console.WriteLine("jsj");
+                cmd.CommandType = CommandType.StoredProcedure;
+                using (var res = cmd.ExecuteReader())
+                {
+                    while (res.Read())
+                    {
+                        Console.WriteLine("neni");
+                        Sales3 tmp = new Sales3();
+                        tmp.Id = Convert.ToInt32(res["BusinessEntityID"]);
+                        tmp.sales = Convert.ToInt32(res["Sales"]);
+                        tmp.year = Convert.ToInt32(res["Year"]);
+
+                        list.Add(tmp);
+                    }
+                }
+            }
+            Console.WriteLine("si llego");
+            return list;
+        }
+
+
         //End sales1
     }
 }

@@ -22,7 +22,7 @@ namespace apiSalesNet.Controllers
             Console.WriteLine("api/sales/sales1");
             List<Sales1> sales1 = services.getSales1(year);
             List<PersonInfo> listusers = await services.getInfoUsers(sales1);
-            List<Register1> registerList = services.ReportGetAlls1(sales1,listusers);
+            List<Register1> registerList = services.ReportGetAlls1(sales1, listusers);
 
             return registerList;
         }
@@ -36,6 +36,21 @@ namespace apiSalesNet.Controllers
             List<Register1> registerList = services.ReportGetAlls1(sales1, listusers);
 
             return registerList;
+        }
+
+        [HttpPost("sales3")]
+        public async Task<List<table3>> Sales3([FromBody] int[] year)
+        {
+
+            Console.WriteLine(year);
+            List<int> ids = new List<int>();
+            List<Sales3> sales3 = services.getSales3(year);
+
+            List<PersonInfo> listusers = await services.getInfoUsers3(sales3);
+
+            List<table3> report = services.ReportGetAlls3(sales3, listusers);
+
+            return report;
         }
 
 

@@ -27,6 +27,11 @@ namespace apiSalesNet.Services
             return ds.Sales2(year);
         }
 
+        public List<Sales3> getSales3(int[] year)
+        {
+            return ds.Sales3(year);
+        }
+
         public async Task<List<PersonInfo>> getInfoUsers(List<Sales1> sales1)
         {
 
@@ -71,7 +76,53 @@ namespace apiSalesNet.Services
 
         }
 
-        public List<Register1> ReportGetAlls1(List<Sales1> sales1, List<PersonInfo> listusers){
+        public async Task<List<PersonInfo>> getInfoUsers3(List<Sales3> sales1)
+        {
+
+            string Baseurl = "http://localhost:5401/api/person/";
+
+            List<int> ids = new List<int>();
+
+            // obtengo los id y los agrego a una lista
+            for (int i = 0; i < sales1.Count; i++)
+            {
+                Sales3 s = new Sales3();
+                s = sales1.ElementAt(i);
+                ids.Add(s.Id);
+            }
+
+            //convierto la lista  de id json
+            var json_ids = JsonConvert.SerializeObject(ids);
+
+            var client = new HttpClient();
+            var request = new HttpRequestMessage
+            {
+                Method = HttpMethod.Post,
+                RequestUri = new Uri(Baseurl + "ids"),
+                Content = new StringContent(json_ids)
+                {
+                    Headers ={
+                        ContentType = new MediaTypeHeaderValue("application/json")
+                        }
+                }
+            };
+
+            List<PersonInfo> listusers = new List<PersonInfo>();
+
+            using (var response = await client.SendAsync(request))
+            {
+                response.EnsureSuccessStatusCode();
+                var body = await response.Content.ReadAsStringAsync();
+
+                listusers = JsonConvert.DeserializeObject<List<PersonInfo>>(body);
+            }
+
+            return listusers;
+
+        }
+
+        public List<Register1> ReportGetAlls1(List<Sales1> sales1, List<PersonInfo> listusers)
+        {
 
             List<Register1> registerList = new List<Register1>();
 
@@ -139,6 +190,75 @@ namespace apiSalesNet.Services
             }
 
             return registerList;
+        }
+
+        public List<table3> ReportGetAlls3(List<Sales3> sales3, List<PersonInfo> listusers)
+        {
+            Console.WriteLine("naeee");
+            List<table3> report = new List<table3>();
+            int controlInputs = 0;
+
+            for (int i = 0; i < listusers.Count; i++)
+            {
+                List<int> listSales = new List<int>();
+                List<int> listYears = new List<int>();
+                table3 objetT = new table3();
+                controlInputs = 0;
+
+                for (int j = 0; j < sales3.Count; j++)
+                {
+
+                    if (listusers.ElementAt(i).BusinessEntityID == sales3.ElementAt(j).Id)
+                    {
+
+                        listSales.Add(sales3.ElementAt(j).sales);
+
+                        objetT.id = listusers.ElementAt(i).BusinessEntityID;
+                        objetT.name = listusers.ElementAt(i).name + " " + listusers.ElementAt(i).lastName;
+
+                        listYears.Add(sales3.ElementAt(j).year);
+
+                        controlInputs = 1;
+
+                    }
+
+                    Console.WriteLine("\n el que está " + sales3.ElementAt(j).year + "\n");
+
+
+                    if (j < sales3.Count - 1)
+                    {
+                        if (sales3.ElementAt(j).year != sales3.ElementAt(j + 1).year)
+                        {
+                            Console.WriteLine("eL DE ANTES= " + sales3.ElementAt(j + 1).year + "\n el que está despues" + sales3.ElementAt(j).year + "\n");
+
+                            if (controlInputs == 0)
+                            {
+                                listSales.Add(0);
+                                listYears.Add(sales3.ElementAt(j).year);
+
+                            }
+                            else
+                            {
+                                controlInputs = 0;
+
+                            }
+
+
+
+                        }
+
+
+                    }
+                }
+                objetT.sales = listSales;
+                objetT.years = listYears;
+                report.Add(objetT);
+
+
+            }
+
+            return report;
+
         }
     }
 }
