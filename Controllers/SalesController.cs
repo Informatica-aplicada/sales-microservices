@@ -54,7 +54,7 @@ namespace apiSalesNet.Controllers
         [HttpGet("/")]
         public string index()
         {
-            string info = "Api sales online test";
+            string info = "Api sales online test!!";
             return info;
         }
     }
