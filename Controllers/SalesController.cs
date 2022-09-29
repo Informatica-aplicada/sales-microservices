@@ -55,7 +55,7 @@ namespace apiSalesNet.Controllers
         [HttpGet("/")]
         public string index()
         {
-            string info = "Api sales online actualizado person";
+            string info = "Api sales online actualizado person2";
             return info;
         }
     }
