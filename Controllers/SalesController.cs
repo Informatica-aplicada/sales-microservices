@@ -39,25 +39,23 @@ namespace apiSalesNet.Controllers
         }
 
         [HttpPost("sales3")]
-        public async Task<List<table3>> Sales3([FromBody] int[] year)
+        public async Task<List<Sales3>> Sales3([FromBody] int[] year)
         {
 
             Console.WriteLine(year);
             List<int> ids = new List<int>();
             List<Sales3> sales3 = services.getSales3(year);
+            // List<PersonInfo> listusers = await services.getInfoUsers3(sales3);
+            // List<table3> report = services.ReportGetAlls3(sales3, listusers);
 
-            List<PersonInfo> listusers = await services.getInfoUsers3(sales3);
-
-            List<table3> report = services.ReportGetAlls3(sales3, listusers);
-
-            return report;
+            return sales3;
         }
 
 
         [HttpGet("/")]
         public string index()
         {
-            string info = "Api sales online";
+            string info = "Api sales online actualizado";
             return info;
         }
     }
