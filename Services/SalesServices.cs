@@ -35,9 +35,7 @@ namespace apiSalesNet.Services
         public async Task<List<PersonInfo>> getInfoUsers(List<Sales1> sales1)
         {
 
-
             List<int> ids = new List<int>();
-
             // obtengo los id y los agrego a una lista
             for (int i = 0; i < sales1.Count; i++)
             {
@@ -76,50 +74,7 @@ namespace apiSalesNet.Services
 
         }
 
-        public async Task<List<PersonInfo>> getInfoUsers3(List<Sales3> sales1)
-        {
 
-            string Baseurl = "https://person-microservices.azurewebsites.net/api/person/ids";
-//mjdjdj
-            List<int> ids = new List<int>();
-
-            // obtengo los id y los agrego a una lista
-            for (int i = 0; i < sales1.Count; i++)
-            {
-                Sales3 s = new Sales3();
-                s = sales1.ElementAt(i);
-                ids.Add(s.Id);
-            }
-
-            //convierto la lista  de id json
-            var json_ids = JsonConvert.SerializeObject(ids);
-
-            var client = new HttpClient();
-            var request = new HttpRequestMessage
-            {
-                Method = HttpMethod.Post,
-                RequestUri = new Uri(Baseurl + "ids"),
-                Content = new StringContent(json_ids)
-                {
-                    Headers ={
-                        ContentType = new MediaTypeHeaderValue("application/json")
-                        }
-                }
-            };
-
-            List<PersonInfo> listusers = new List<PersonInfo>();
-
-            using (var response = await client.SendAsync(request))
-            {
-                response.EnsureSuccessStatusCode();
-                var body = await response.Content.ReadAsStringAsync();
-
-                listusers = JsonConvert.DeserializeObject<List<PersonInfo>>(body);
-            }
-
-            return listusers;
-
-        }
 
         public List<Register1> ReportGetAlls1(List<Sales1> sales1, List<PersonInfo> listusers)
         {
@@ -242,18 +197,12 @@ namespace apiSalesNet.Services
                                 controlInputs = 0;
 
                             }
-
-
-
                         }
-
-
                     }
                 }
                 objetT.sales = listSales;
                 objetT.years = listYears;
                 report.Add(objetT);
-
 
             }
 

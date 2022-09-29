@@ -42,12 +42,12 @@ namespace apiSalesNet.Controllers
         public async Task<List<PersonInfo>> Sales3([FromBody] int[] year)
         {
 
+//prueba
             Console.WriteLine(year);
             List<int> ids = new List<int>();
             List<Sales3> sales3 = services.getSales3(year);
-            List<PersonInfo> listusers = await services.getInfoUsers3(sales3);
+            List<PersonInfo> listusers = await services.getInfoUsers(sales3);
             // List<table3> report = services.ReportGetAlls3(sales3, listusers);
-
             return listusers;
         }
 
