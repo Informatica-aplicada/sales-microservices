@@ -79,8 +79,8 @@ namespace apiSalesNet.Services
         public async Task<List<PersonInfo>> getInfoUsers3(List<Sales3> sales1)
         {
 
-            string Baseurl = "http://localhost:5401/api/person/";
-
+            string Baseurl = "https://person-microservices.azurewebsites.net/api/person/ids";
+//mjdjdj
             List<int> ids = new List<int>();
 
             // obtengo los id y los agrego a una lista
