@@ -12,6 +12,7 @@ namespace apiSalesNet.Services
 {
     public class SalesServices
     {
+
         public SalesServices() { }
 
         DataSales ds = new DataSales();

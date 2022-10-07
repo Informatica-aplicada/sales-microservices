@@ -13,7 +13,9 @@ namespace apiSalesNet.Controllers
     public class SalesController : ControllerBase
     {
         // string Baseurl = "http://localhost:5401/api/person/";
-        SalesServices services = new SalesServices();
+       // SalesServices services = new SalesServices();
+
+        SalesServices services = new SalesServices();  
 
         [HttpPost("sales1")]
         public async Task<List<Register1>> Sales1([FromBody] int[] year)
@@ -45,7 +47,9 @@ namespace apiSalesNet.Controllers
             Console.WriteLine(year);
             List<int> ids = new List<int>();
             List<Sales3> sales3 = services.getSales3(year);
-            List<PersonInfo> listusers = await services.getInfoUsers(sales3);
+            List<PersonInfo> listusers = null;
+            //lo comenté para que no me diera error, esto lo cambió steve
+           // List<PersonInfo> listusers = await services.getInfoUsers(sales3);
             // List<table3> report = services.ReportGetAlls3(sales3, listusers);
             return listusers;
         }
