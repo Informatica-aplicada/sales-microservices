@@ -10,7 +10,7 @@ using RestClient.Net;
 
 namespace apiSalesNet.Services
 {
-    public class SalesServices
+    public class SalesServices:ISales
     {
 
         public SalesServices() { }

@@ -12,10 +12,14 @@ namespace apiSalesNet.Controllers
     [ApiController]
     public class SalesController : ControllerBase
     {
-        // string Baseurl = "http://localhost:5401/api/person/";
-       // SalesServices services = new SalesServices();
 
-        SalesServices services = new SalesServices();  
+       private readonly ISales services;
+
+       public SalesController(ISales services)
+    {
+        this.services = services;
+    }   
+
 
         [HttpPost("sales1")]
         public async Task<List<Register1>> Sales1([FromBody] int[] year)
